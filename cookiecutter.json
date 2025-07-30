@@ -5,8 +5,5 @@
 	"project_name": "boilerplate",
 	"project_long_name": "boilerboilerplate",
 	"plugin_name": "idk",
-	"lv2name": "{{cookiecutter.project_name}}.lv2",
-	"manifestname": "manifest",
-	"templatenamettl": "{{cookiecutter.project_name}}.ttl",
-	"manifestnamettl": "{{cookiecutter.manifestname}}.ttl"
+	"lv2name": "{{cookiecutter.project_name}}.lv2"
 }
