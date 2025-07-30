@@ -1,7 +1,7 @@
 {
 	"name": "Luo JunXiang",
 	"email": "luojunxiangx@gmail.com",
-	"project_name": "{{cookiecutter.project_name}}",
-	"project_long_name": "{{cookiecutter.project_long_name}}",
-	"plugin_name": "{{cookiecutter.plugin_name}}"
+	"project_name": "boilerplate",
+	"project_long_name": "boilerboilerplate",
+	"plugin_name": "idk"
 }
