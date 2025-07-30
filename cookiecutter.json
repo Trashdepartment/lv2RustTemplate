@@ -1,0 +1,7 @@
+{
+	"name": "Luo JunXiang",
+	"email": "luojunxiangx@gmail.com",
+	"project name": "{{cookiecutter.project_name}}",
+	"project long name": "{{cookiecutter.project_long_name}}",
+	"plugin name": "{{cookiecutter.plugin_name}}"
+}
