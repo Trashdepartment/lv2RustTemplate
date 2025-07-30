@@ -1,0 +1,8 @@
+/home/mosaic/Desktop/Stuff/External/SchoolWork/2025s1/IWP/lv2_template/target/debug/deps/liblv2_core_derive-686e0e34800cf8dd.so: /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lv2-core-derive-2.1.1/src/lib.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lv2-core-derive-2.1.1/src/feature_collection_derive.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lv2-core-derive-2.1.1/src/lv2_descriptors.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lv2-core-derive-2.1.1/src/port_collection_derive.rs
+
+/home/mosaic/Desktop/Stuff/External/SchoolWork/2025s1/IWP/lv2_template/target/debug/deps/lv2_core_derive-686e0e34800cf8dd.d: /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lv2-core-derive-2.1.1/src/lib.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lv2-core-derive-2.1.1/src/feature_collection_derive.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lv2-core-derive-2.1.1/src/lv2_descriptors.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lv2-core-derive-2.1.1/src/port_collection_derive.rs
+
+/home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lv2-core-derive-2.1.1/src/lib.rs:
+/home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lv2-core-derive-2.1.1/src/feature_collection_derive.rs:
+/home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lv2-core-derive-2.1.1/src/lv2_descriptors.rs:
+/home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/lv2-core-derive-2.1.1/src/port_collection_derive.rs:

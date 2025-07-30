@@ -1,0 +1,1 @@
+fundsp::combinator::An<fundsp::audionode::Pipe<fundsp::audionode::Pipe<fundsp::hacker::Noise, fundsp::hacker::FixedSvf<{float}, fundsp::hacker::LowpassMode<{float}>>>, fundsp::hacker::FixedSvf<{float}, fundsp::hacker::HighpassMode<{float}>>>>

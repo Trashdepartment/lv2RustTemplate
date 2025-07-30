@@ -1,0 +1,1 @@
+fn(fundsp::combinator::An<fundsp::audiounit::Unit<fundsp::typenum::UTerm, fundsp::typenum::UInt<fundsp::typenum::UInt<fundsp::typenum::UTerm, fundsp::typenum::B1>, fundsp::typenum::B0>>>) -> dsp::Voice {dsp::Voice}

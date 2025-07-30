@@ -1,0 +1,1 @@
+fundsp::combinator::An<fundsp::audionode::Pipe<fundsp::audionode::Pipe<fundsp::audionode::Constant<fundsp::typenum::UInt<fundsp::typenum::UTerm, fundsp::typenum::B1>>, fundsp::hacker::Sine<f64>>, fundsp::audionode::Branch<fundsp::audionode::Pass, fundsp::audionode::Pass>>>

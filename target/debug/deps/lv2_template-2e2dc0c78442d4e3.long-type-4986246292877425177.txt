@@ -1,0 +1,2 @@
+numeric_array::NumericArray<f32, typenum::uint::UInt<typenum::uint::UInt<typenum::uint::UTerm, typenum::bit::B1>, typenum::bit::B0>>
+fundsp::numeric_array::NumericArray<f32, fundsp::typenum::UInt<fundsp::typenum::UInt<fundsp::typenum::UTerm, fundsp::typenum::B1>, fundsp::typenum::B0>>

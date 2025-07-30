@@ -1,0 +1,1 @@
+fundsp::combinator::An<fundsp::audiounit::Unit<UTerm, UInt<UInt<UTerm, fundsp::typenum::B1>, fundsp::typenum::B0>>>: Copy

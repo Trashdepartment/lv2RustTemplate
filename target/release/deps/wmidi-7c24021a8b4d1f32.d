@@ -1,0 +1,11 @@
+/home/mosaic/Desktop/Stuff/External/SchoolWork/2025s1/IWP/lv2_template/target/release/deps/libwmidi-7c24021a8b4d1f32.rmeta: /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/lib.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/byte.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/error.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/midi_message.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/note.rs
+
+/home/mosaic/Desktop/Stuff/External/SchoolWork/2025s1/IWP/lv2_template/target/release/deps/libwmidi-7c24021a8b4d1f32.rlib: /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/lib.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/byte.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/error.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/midi_message.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/note.rs
+
+/home/mosaic/Desktop/Stuff/External/SchoolWork/2025s1/IWP/lv2_template/target/release/deps/wmidi-7c24021a8b4d1f32.d: /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/lib.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/byte.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/error.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/midi_message.rs /home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/note.rs
+
+/home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/lib.rs:
+/home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/byte.rs:
+/home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/error.rs:
+/home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/midi_message.rs:
+/home/mosaic/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wmidi-3.1.0/src/note.rs:
